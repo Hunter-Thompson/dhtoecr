@@ -1,0 +1,6 @@
+registryMap:
+  alpine:
+    - alpine:latest
+    - alpine:3.13
+  nginx:
+    - nginx:latest
